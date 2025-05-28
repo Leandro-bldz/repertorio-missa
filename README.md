@@ -6,6 +6,10 @@ Página com repertório utilizado nas celebrações da Santa Missa. Os links ind
 
 Protótipo com utilização de estilo simples, sem frameworks.
 
+## Versão 1.1
+
+Inserção de estilo com Bootstrap.
+
 ## Tecnologias utilizadas
 
 - HTML
